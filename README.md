@@ -13,7 +13,7 @@ My work focuses on satellite remote sensing of the ocean, particularly ocean col
 ### Interests & tools
 
 - 🌊 Marine remote sensing and satellite applications
-- 🛰️ Sentinel, Meteosat and other Earth observation missions
+- 🛰️ Copernicus Sentinel-3, Sentinel-6, CIMR, CRISTAL and other Earth observation missions
 - 🐍 Python, xarray, Dask and Jupyter
 - ☁️ Cloud-native data: Zarr, COG, Kerchunk and S3
 - 🗺️ Geospatial data processing and visualisation
